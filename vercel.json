@@ -2,9 +2,55 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
-    { "source": "/landing", "destination": "/", "permanent": true },
-    { "source": "/funnel/landing.html", "destination": "/", "permanent": true },
-    { "source": "/funnel/landing", "destination": "/", "permanent": true },
-    { "source": "/funnel/:page(thank-you|privacy|terms)(.html)?", "destination": "/:page", "permanent": true }
+    {
+      "source": "/landing",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/funnel",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/landing.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/landing",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/thank-you.html",
+      "destination": "/thank-you",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/thank-you",
+      "destination": "/thank-you",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/privacy.html",
+      "destination": "/privacy",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/privacy",
+      "destination": "/privacy",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/terms.html",
+      "destination": "/terms",
+      "permanent": true
+    },
+    {
+      "source": "/funnel/terms",
+      "destination": "/terms",
+      "permanent": true
+    }
   ]
 }
