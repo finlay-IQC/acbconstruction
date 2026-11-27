@@ -45,7 +45,9 @@
     var frame = document.querySelector('#form-embed iframe');
     if (!frame || frame.dataset.utmTagged) return;
     var src = frame.getAttribute('src');
-    if (src) { frame.setAttribute('src', withUtm(src)); frame.dataset.utmTagged = '1'; }
+    frame.dataset.utmTagged = '1';
+    var tagged = src ? withUtm(src) : src;
+    if (tagged && tagged !== src) frame.setAttribute('src', tagged); // only reload when UTMs exist
   }
   tagIframe();
 
