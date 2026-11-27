@@ -28,7 +28,7 @@ Offer
 What service does the renovation company provide?
 Extensions and full home renovations
 (The client did not name a lead service in onboarding — confirm with Andre before launch which service to promote first.)
-Area = Brentwood and across Essex (client also works in Purley)
+Area = Brentwood and across Essex
 In page copy, say "Brentwood and across Essex".
 
 Ideal customer
