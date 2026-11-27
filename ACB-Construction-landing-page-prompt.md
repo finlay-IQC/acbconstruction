@@ -2,7 +2,7 @@ Home Renovation Call Funnel Builder Prompt — ACB Construction Ltd
 
 What this is
 
-You are going to build a high-converting landing page funnel for cold traffic — homeowners in Brentwood and the surrounding area planning an extension or full home renovation.
+You are going to build a high-converting landing page funnel for cold traffic — homeowners in Brentwood and across Essex planning an extension or full home renovation.
 
 This funnel is designed for Meta Ads, where the visitor does not really know the brand yet.
 The visitor is a homeowner in Brentwood, Essex, or a nearby town, who loves where they live but has outgrown their house, and is weighing up extending or renovating instead of moving.
@@ -28,13 +28,13 @@ Offer
 What service does the renovation company provide?
 Extensions and full home renovations
 (The client did not name a lead service in onboarding — confirm with Andre before launch which service to promote first.)
-Area = Brentwood, Essex and surrounding areas (CM13, CM14, CM15 — confirm exact postcodes and towns with Andre before launch)
-In page copy, say "Brentwood and the surrounding area". Do not list specific towns or postcodes on the page until confirmed.
+Area = Brentwood and across Essex (client also works in Purley)
+In page copy, say "Brentwood and across Essex".
 
 Ideal customer
 
 Who should complete the form and book a call?
-Homeowners in Brentwood and the surrounding area who want to extend or fully renovate their current home instead of moving, with a project budget of £100,000 or more.
+Homeowners in Brentwood and across Essex who want to extend or fully renovate their current home instead of moving, with a project budget of £100,000 or more.
 
 The core angle: "Love where you live. Don't move — improve." The visitor is choosing between selling up and investing in the home they already have. Speak to that decision.
 
@@ -179,7 +179,7 @@ Clear headline focused on the outcome for the homeowner (lean into staying in th
 One-sentence subheadline explaining what the company does and for whom.
 Primary CTA button.
 Friction-killer line below the button (e.g. "Free. Takes less than 2 minutes. No obligation.").
-Small trust strip using confirmed proof only: "Extensions and full renovations", "Brentwood and surrounding area", "Projects from £100,000", plus one placeholder slot for [AWARD / ACCREDITATION OR STAR RATING].
+Small trust strip using confirmed proof only: "Extensions and full renovations", "Brentwood and across Essex", "Projects from £100,000", plus one placeholder slot for [AWARD / ACCREDITATION OR STAR RATING].
 The CTA button should scroll to the form/survey section.
 Avoid generic CTAs like: Submit / Learn More / Get Started
 Full-bleed background image (use a high-quality extension or renovation photo from the client — placeholder if not yet provided).
@@ -190,7 +190,7 @@ The image does the selling. The copy is minimal.
 Social proof strip
 Acceptable formats:
 Projects from £100,000, average project around £200,000 (confirmed)
-Areas covered: Brentwood and surrounding area (confirmed)
+Areas covered: Brentwood and across Essex (confirmed)
 Awards / accreditations / memberships (placeholder slots only — not yet confirmed)
 Review ratings (only if confirmed with client — placeholder slot for now)
 Short homeowner testimonial quote (only if real one provided)
@@ -259,7 +259,7 @@ We're not sure whether to extend or move — can you help?
 We're still in the planning stage — is it too early to reach out?
 What size projects do you take on? (Answer: our projects typically start from £100,000, with most sitting around £200,000.)
 What if our budget doesn't match what we need?
-What areas do you cover? (Answer: Brentwood and the surrounding area.)
+What areas do you cover? (Answer: Brentwood and across Essex.)
 Keep answers short and honest. Do not over-promise.
 
 Form/survey section
