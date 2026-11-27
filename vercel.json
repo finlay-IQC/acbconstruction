@@ -1,5 +1,10 @@
 {
+  "cleanUrls": true,
+  "trailingSlash": false,
   "redirects": [
-    { "source": "/", "destination": "/funnel/landing.html", "permanent": false }
+    { "source": "/landing", "destination": "/", "permanent": true },
+    { "source": "/funnel/landing.html", "destination": "/", "permanent": true },
+    { "source": "/funnel/landing", "destination": "/", "permanent": true },
+    { "source": "/funnel/:page(thank-you|privacy|terms)(.html)?", "destination": "/:page", "permanent": true }
   ]
 }

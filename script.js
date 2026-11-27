@@ -35,7 +35,7 @@
   }
 
   // Append UTMs to any internal link pointing at thank-you.html
-  document.querySelectorAll('a[href*="thank-you.html"]').forEach(function (a) {
+  document.querySelectorAll('a[href*="thank-you"]').forEach(function (a) {
     a.href = withUtm(a.getAttribute('href'));
   });
 
@@ -58,7 +58,7 @@
 
   // Redirect helper — call window.acbThankYou() from a form "on submit" hook if needed.
   window.acbThankYou = function () {
-    window.location.href = withUtm('thank-you.html');
+    window.location.href = withUtm('/thank-you');
   };
 
   // ---------- Smooth scroll to form ----------
